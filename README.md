@@ -35,7 +35,7 @@
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/YOUR-USERNAME/financy.git
+git clone https://github.com/GabrielHTuratti/financy.git
 cd financy
 ```
 
